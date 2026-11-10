@@ -18,6 +18,7 @@ Technologies Used
 - Streamlit
 - Joblib
 - Matplotlib
+  
 Project Features
 - Synthetic industrial sensor dataset generation
 - Machine Learning model training
